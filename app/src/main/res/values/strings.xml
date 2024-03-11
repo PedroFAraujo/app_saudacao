@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="string_logo_android">Logo Android</string>
+    <string name="string_title">Pedro Fernandes Araújo</string>
+    <string name="string_subtitle">3º Novotec Desenvolvimento de Sistemas AMS</string>
+    <string name="string_telefone">Telefone</string>
+    <string name="string_tel_number">(11)97036-3579</string>
+    <string name="icon_perfil_linkedin">Perfil Linkedin</string>
+    <string name="string_perfil_linkedin">Linkedin: Pedro Araújo</string>
+    <string name="string_icon_email">Icon Email</string>
+    <string name="string_email">pedrofeearaujo@gmail.com</string>
+</resources>
